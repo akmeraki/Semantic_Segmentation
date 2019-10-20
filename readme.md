@@ -43,7 +43,7 @@ The goal is to assign each pixel of the input image to the appropriate class (ro
 
 ### Model parameters
 <p align="center">
-<img src="">
+<img src="https://github.com/akmeraki/Semantic_Segmentation/blob/master/images/parameters.pdf">
 </p>
 
 ### How to Run the Model
