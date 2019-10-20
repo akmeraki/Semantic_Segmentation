@@ -41,11 +41,6 @@ Decoder is used to upsample features, extracted by the VGG16 model, to the origi
 The goal is to assign each pixel of the input image to the appropriate class (road, backgroung, etc). So, it is a classification problem, that is why, cross entropy loss was applied.
 
 
-### Model parameters
-<p align="center">
-<img src="https://github.com/akmeraki/Semantic_Segmentation/blob/master/images/parameters.pdf">
-</p>
-
 ### How to Run the Model
 You can clone the repository. Then install the required dependencies. Open a jupyter lab or jupyter notebook console and Implement the notebook- `Semantic_Segmentation.ipynb`.
 
