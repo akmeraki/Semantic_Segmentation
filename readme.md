@@ -26,7 +26,7 @@ Please utilize the environment file to install related packages.
 - `Semantic_Segmentation.ipynb` - The jupyter notebook used to build and train the model.
 - `Notes folder` - Contains the Notes taken, Paper summaries and Documents taken.
 - `Image folder` - Contains the samples images of the training data and model .
-- `cityscapes.ipynb` - Jupyter notebook with some visualization and preprocessing of the Cityscape dataset. Please, see the notebook for correct dataset directories placing.
+- `cityscapes.ipynb` - Jupyter notebook with some visualization and preprocessing of the Cityscape dataset.
 - `helper_cityscapes.py` - python program for images pre- and  post- processing for the Cityscape dataset.
 
 ### Architecture
