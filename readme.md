@@ -1,7 +1,7 @@
 # Semantic Segmentation
 
 <p align="center">
-<img src="https://github.com/akmeraki/Semantic_Segmentation/blob/master/images/">
+<img src="https://github.com/akmeraki/Semantic_Segmentation/blob/master/images/Gif.gif">
 </p>
 
 
