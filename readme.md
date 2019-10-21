@@ -1,12 +1,12 @@
 # Semantic Segmentation
 
 <p align="center">
-<img src="https://github.com/akmeraki/Semantic_Segmentation/blob/master/images/frankfurt_000000_000294_gtFine_color.png">
+<img src="https://github.com/akmeraki/Semantic_Segmentation/blob/master/images/">
 </p>
 
 
 ### Overview
-The objective of this project is to make a Convolutional Neural Network do a pixel wise classification of multiple objects in the scene (i.e cars, pedestrians, trees, roads etc.). 
+The objective of this project is to make a Convolutional Neural Network do a pixel wise classification of multiple objects in the scene (i.e cars, pedestrians, trees, roads etc.).
 
 
 ### Dependencies
@@ -26,7 +26,6 @@ Please utilize the environment file to install related packages.
 - `Semantic_Segmentation.ipynb` - The jupyter notebook used to build and train the model.
 - `Notes folder` - Contains the Notes taken, Paper summaries and Documents taken.
 - `Image folder` - Contains the samples images of the training data and model .
-- `helper.py` - python program for images pre- and  post- processing.
 - `cityscapes.ipynb` - Jupyter notebook with some visualization and preprocessing of the Cityscape dataset. Please, see the notebook for correct dataset directories placing.
 - `helper_cityscapes.py` - python program for images pre- and  post- processing for the Cityscape dataset.
 
